@@ -1,0 +1,141 @@
+  body {
+    text-align: center;
+    font-family: 'Gruppo', cursive;
+    font-size: 100%;
+    margin: auto;
+
+
+
+  }
+  hr {
+    border-color: grey; border-style:none;
+  border-top-style: dotted;
+  border-width: 8px;
+  width: 4%;
+  margin: 100px auto 100px auto;
+
+  }
+
+  .top-container {
+    background-color: #BFFFF0;
+
+  }
+  .middle-container {
+    margin: 100px auto 100px auto;
+
+
+  }
+  .bottom-container {
+      background-color: #BFFFF0;
+      padding: 50px 0 20px;
+
+  }
+  h1 {
+    color: #139487;
+    font-size: 5.625rem;
+    margin: 50px auto 0 auto;
+    font-family: 'Charmonman', cursive;
+
+  }
+  h2 {
+    color: #139487;
+    font-family: 'Gruppo', cursive;
+    font-size: 2.5rem;
+  }
+  h3 {
+    color: #139487;
+    font-family: 'Josefin Sans', sans-serif;
+  }
+
+  p {
+    color: black;
+    font-family: 'Gruppo', cursive;
+    line-height: 2;
+    text-align: center;
+
+  }
+  .profile {
+    position: relative;
+    width: 0 auto 0 auto;
+
+  }
+  .bird-top {
+    width: 35%;
+    position: relative;
+    right: 350px;
+
+  }
+  .bird-bottom {
+    width: 35%;
+    position: relative;
+    left: 200px;
+  }
+  .moonpng {
+    position: relative;
+    top: 200px;
+    width: 10%;
+    left: 200px;
+
+  }
+  .mountainpng {
+    width: 70%;
+  }
+  .Web {
+    text-decoration: underline;
+
+
+
+  }
+  .skill-row {
+    width: 50%;
+    margin: 100px auto 150px auto;
+
+  }
+  .webdev-img {
+
+    width: 28%;
+    float: left;
+    margin-right: 30px;
+  }
+  .instructor-img {
+
+    width: 28%;
+    float: right;
+    margin-right: 30px;
+
+
+  }
+  .contact-me {
+    width: 40%;
+    margin: 40px auto 60px;
+  }
+  .btn {
+  background: #71f7bb;
+  background-image: -webkit-linear-gradient(top, #71f7bb, #1a917f);
+  background-image: -moz-linear-gradient(top, #71f7bb, #1a917f);
+  background-image: -ms-linear-gradient(top, #71f7bb, #1a917f);
+  background-image: -o-linear-gradient(top, #71f7bb, #1a917f);
+  background-image: linear-gradient(to bottom, #71f7bb, #1a917f);
+  -webkit-border-radius: 8;
+  -moz-border-radius: 8;
+  border-radius: 8px;
+  font-family: 'Gruppo', cursive;
+  color: #ffffff;
+  font-size: 12px;
+  padding: 10px 20px 10px 20px;
+  text-decoration: none;
+}
+
+.btn:hover {
+  background: #019267;
+  background-image: -webkit-linear-gradient(top, #019267, #00C897);
+  background-image: -moz-linear-gradient(top, #019267, #00C897);
+  background-image: -ms-linear-gradient(top, #019267, #00C897);
+  background-image: -o-linear-gradient(top, #019267, #00C897);
+  background-image: linear-gradient(to bottom, #019267, #00C897);
+  text-decoration: none;
+}
+
+  .alright-reserve {
+    padding: 20px;
+  }
